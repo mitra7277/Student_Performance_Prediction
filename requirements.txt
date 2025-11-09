@@ -4,3 +4,4 @@ numpy
 joblib
 plotly
 fpdf
+scikit-learn
